@@ -197,3 +197,4 @@ this is a good place where the batch import for csv's could be implemented
 5. after testing in staging, merge to production
 6. if this merge fails, it will roll back to previous successful build
 
+### There will be more training before Odoo Experience in Belgium in October; two day hands-on
